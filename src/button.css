@@ -9,8 +9,8 @@
     white-space: nowrap;
     cursor: pointer;
     background: var(--button-default-fill);
-    border: var(--border-base);
-    color: var(--button-default-color);
+    border: var(--border-width-base) var(--border-style-base) var(--color-primary);
+    color: var(--color-primary);
     -webkit-appearance: none;
     text-align: center;
     box-sizing: border-box;
